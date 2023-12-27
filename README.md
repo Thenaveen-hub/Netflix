@@ -6,7 +6,7 @@ A simple Netflix Clone built using HTML & CSS which includes classic netfix intr
 
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
- ## 🚀 Demo [click here](https://thenaveen-hub.github.io/Catch-me-game/)
+ ## 🚀 Demo [click here](https://thenaveen-hub.github.io/Netflix/)
 
 ## Snapshots
 
@@ -21,7 +21,7 @@ https://github.com/Thenaveen-hub/Catch-me-game/assets/140473308/a7c70b51-5fdb-41
 ![nt2 (1)](https://github.com/Thenaveen-hub/Catch-me-game/assets/140473308/f84fec89-c4a9-49b0-bb22-1fee68a3587d)
 ![nt1 (1)](https://github.com/Thenaveen-hub/Catch-me-game/assets/140473308/7c6996c3-7ce4-4d80-949a-dac986f7121b)
 
-##  👉👉  [Click Here To visit Website](https://thenaveen-hub.github.io/Spotify/)
+##  👉👉  [Click Here To visit Website](https://thenaveen-hub.github.io/Netflix/)
 
 # Key Technologies:
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
